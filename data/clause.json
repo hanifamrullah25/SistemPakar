@@ -1,0 +1,9 @@
+{
+  "1": {
+    "question": "Tell me some features of this bird?",
+    "answer": {
+      "positive": "I think the bird you are talking about is ",
+      "negative": "I am not sure if this is the bird "
+    }
+  }
+}

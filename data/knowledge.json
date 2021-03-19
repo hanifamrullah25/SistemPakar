@@ -1,0 +1,22 @@
+{
+  "target": [
+    {
+      "name": "Peacock",
+      "rules": {
+        "1": "long feathers",
+        "2": "no flight",
+        "3": "blue color",
+        "4": "eats snakes"
+      }
+    },
+    {
+      "name": "Hen",
+      "rules": {
+        "1": "no flight",
+        "2": "brown",
+        "3": "human eatable",
+        "4": "eats grains"
+      }
+    }
+  ]
+}
